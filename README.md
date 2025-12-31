@@ -1,6 +1,6 @@
 # Hi there, I'm Tommy (Xiyuan) Guo 👋
 
-I'm a **Computer Science student at the University of Virginia (UVA)** and a passionate developer focused on building robust full-stack applications. I believe in a terminal-centric workflow and contributing back to the tools I use every day.
+I am a CS student based in US.
 
 ### 🔭 Currently Working On
 * **Ruby on Rails:** Developing a full-stack web application.
@@ -18,10 +18,6 @@ I'm a **Computer Science student at the University of Virginia (UVA)** and a pas
 * **GitHub:** [@oug-t](https://github.com/oug-t)
 
 ### ⚡ Fun Facts
-* **CS @ UVA:** I'm a Wahoo diving deep into software engineering and systems.
-* **Martial Arts:** I train in **Muay Thai**.
-* **Music:** I keep the rhythm as a **drummer**.
-* **Fitness:** Bodyweight mastery through **calisthenics**.
 * **Pets:** I have a **Sheltie** 🐶.
 * **Fuel:** I'm powered by **Coffee** ☕.
-* **Workflow:** I prefer the terminal over a mouse any day.
+* **Hobbies** I am enjoys **Drumming** and **Calithenics** 💪🏻.
