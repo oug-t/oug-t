@@ -5,7 +5,6 @@ I am a CS student based in US.
 ### 🔭 Currently Working On
 * **Ruby on Rails:** Developing a full-stack web application.
 * **Open Source:** Actively contributing to [Ruby on Rails](https://github.com/rails/rails) guides and core documentation.
-* **Competitive Programming:** Improving my skills on [Codeforces](https://codeforces.com/profile/oug-t).
 
 ### 🛠️ Tools & Tech
 * **Languages:** Ruby, C/C++, Java (SDE focused).
