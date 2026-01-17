@@ -19,4 +19,4 @@ I am a CS student based in US.
 ### ⚡ Fun Facts
 * **Pets:** I have a **Sheltie** 🐶.
 * **Fuel:** I'm powered by **Coffee** ☕.
-* **Hobbies** I am enjoys **Drumming** and **Calithenics** 💪🏻.
+* **Hobbies** I am enjoys **Drumming** and **Muay Thai** 💪🏻.
