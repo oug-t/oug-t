@@ -7,8 +7,8 @@ I am a CS student based in US.
 * **Open Source:** Actively contributing to [Ruby on Rails](https://github.com/rails/rails) guides and core documentation.
 
 ### 🛠️ Tools & Tech
-* **Languages:** Ruby, C/C++, Java (SDE focused).
-* **Frameworks & Tools:** Ruby on Rails, Tailwind CSS, Gradle.
+* **Languages:** Typescript, C/C++, Java (SDE focused).
+* **Frameworks & Tools:** Svelte, Ruby on Rails, Tailwind CSS, Gradle.
 * **Editor:** `nvim` (I use nvim btw) 🚀
 * **Environment:** Arch Linux / WSL.
 
