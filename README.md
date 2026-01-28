@@ -3,8 +3,7 @@
 I am a CS student based in US.
 
 ### 🔭 Currently Working On
-* **Ruby on Rails:** Developing a full-stack web application.
-* **Open Source:** Actively contributing to [Ruby on Rails](https://github.com/rails/rails) guides and core documentation.
+* [**zsweep**](https://zsweep.com) Mordern minimalistic vim supported minesweeper full-stack with built Svelte. 
 
 ### 🛠️ Tools & Tech
 * **Languages:** Typescript, C/C++, Java (SDE focused).
