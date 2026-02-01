@@ -9,7 +9,7 @@ I am a CS student based in US.
 * **Languages:** Typescript, C/C++, Java (SDE focused).
 * **Frameworks & Tools:** Svelte, Ruby on Rails, Tailwind CSS, Gradle.
 * **Editor:** `nvim` (I use nvim btw) 🚀
-* **Keyboard:** HHKB Lite 2 JP ⌨
+* **Keyboard:** HHKB ⌨
 
 ### 📫 Reach Me
 * **Email:** [tommyguo024@outlook.com](mailto:tommyguo024@outlook.com)
