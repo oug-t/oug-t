@@ -9,11 +9,10 @@ I am a CS student based in US.
 * **Languages:** Typescript, C/C++, Java (SDE focused).
 * **Frameworks & Tools:** Svelte, Ruby on Rails, Tailwind CSS, Gradle.
 * **Editor:** `nvim` (I use nvim btw) 🚀
-* **Environment:** Arch Linux / WSL.
+* **Keyboard:** HHKB Lite 2 JP ⌨
 
 ### 📫 Reach Me
 * **Email:** [tommyguo024@outlook.com](mailto:tommyguo024@outlook.com)
-* **GitHub:** [@oug-t](https://github.com/oug-t)
 
 ### ⚡ Fun Facts
 * **Pets:** I have a **Sheltie** 🐶.
