@@ -2,7 +2,7 @@
 
 ❖ **Portfolio**: xguo.info (built with joy in Svelte)
 
-✉ **Contact**: tommyguo024@outlook.com
+✉ **Contact**: tommyguo039@gmail.com
 
 ⏻ **AFK**: Hanging out with my Sheltie U・ᴥ・U
 
