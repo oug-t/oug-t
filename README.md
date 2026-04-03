@@ -1,6 +1,6 @@
 # Xiyuan (Tommy) Guo
 
-❖ **Portfolio**: xguo.info (built with joy in Svelte)
+❖ **Portfolio**: https://xguo.info (built with joy in Svelte)
 
 ✉ **Contact**: tommyguo039@gmail.com
 
