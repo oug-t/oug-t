@@ -1,4 +1,4 @@
-# Xiyuan (Tommy) Guo
+# Xiyuan Guo (Tommy)
 
 ❖ **Portfolio**: https://xguo.info (built with joy in Svelte)
 
